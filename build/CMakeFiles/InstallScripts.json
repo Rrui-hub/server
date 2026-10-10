@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/novice/workstation/server/build/cmake_install.cmake",
+		"/home/novice/workstation/server/build/pans/cmake_install.cmake",
+		"/home/novice/workstation/server/build/tests/cmake_install.cmake",
+		"/home/novice/workstation/server/build/tools/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
